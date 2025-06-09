@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 # mfaulk
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfaulk&show_icons=true&theme=dark)
-
 ## About Me
 
 - **Seasoned software engineer & entrepreneur** with a Ph.D., currently driving innovation at a stealth-stage crypto startup.
