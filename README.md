@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# mfaulk
-
 ## About Me
 
 - **Seasoned software engineer & entrepreneur** with a Ph.D., currently driving innovation at a stealth-stage crypto startup.
