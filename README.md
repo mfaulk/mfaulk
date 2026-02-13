@@ -12,23 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
-
-- **Seasoned software engineer & entrepreneur** with a Ph.D., currently driving innovation at a stealth-stage crypto startup.
-- Passionate about solving complex, open-ended problems and bringing ideas from research to production.
-- Active GitHub contributor building Rust-based tools for infrastructure automation, distributed systems, cryptographic protocols, and developer productivity.
-
-## What I’m Working On
-
-- Cutting-edge decentralized systems in the cryptocurrency and blockchain space.
-- Advanced cryptographic primitives (e.g., ZKPs, threshold schemes).
-- Scalable backend services, protocol design, and secure distributed architectures.
-
-## Currently Learning
-- Formal verification in Rust and Go ecosystems.
-- Integrating machine learning inference within distributed systems.
-
----
 
 ## How to Reach Me
 
